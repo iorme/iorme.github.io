@@ -70,7 +70,7 @@ h2 {
 }
 
 .profile #wrapper {
-	padding: 100px 40px 0px;
+	padding: 30px 10px 0px;
 	max-width: 600px;
 	margin: 0 auto;
 }
@@ -100,12 +100,25 @@ h2 {
 
 .profile h2 {
 	font-size: 20px;
-	  font-weight: 300;
-	  color: #aaa;
-	  margin-top: 10px;
-	  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	  font-style: normal;
+  	font-weight: 300;
+  	color: #aaa;
+  	margin-top: 10px;
+  	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  	font-style: normal;
 
+}
+
+.profile .social {
+	margin-top: 20px;
+}
+
+.profile .social a {
+	padding: 5px;
+	color: #aaa;
+}
+
+.profile .social a:hover {
+	color: #F47B79
 }
 
 nav.main-nav {

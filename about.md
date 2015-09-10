@@ -4,6 +4,8 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Halo, saya Harry Yunanto
+
+Katanya sih Senior PHP Programmer di [pointer](http://www.pointer.co.id)
 
 {% include footer.html %}
