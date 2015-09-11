@@ -179,10 +179,10 @@ a,
 #title:hover {
 	text-decoration: none;
 	color: #5badf0;
-	color: #5694f1;
 }
 
-p a { color: #5694f1; }
+p a { color: #F47B79; }
+p a:hover { color:  #5badf0; }
 
 /*Transitions*/
 a,
@@ -402,8 +402,11 @@ Post List
 
 #post-list a {
 	color: #333;
-	display: block;
-	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 1em/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+#post-list p a {
+	color: #F47B79;
 }
 
 #post-list .dates {
